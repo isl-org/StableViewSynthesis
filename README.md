@@ -79,11 +79,11 @@ See [FreeViewSynthesis](https://github.com/intel-isl/FreeViewSynthesis).
 Please cite our [paper](https://arxiv.org/abs/2011.07233) if you find this work useful.
 
 ```bib
-@article{Riegler2020SVS,
+@inproceedings{Riegler2021SVS,
   title={Stable View Synthesis},
   author={Riegler, Gernot and Koltun, Vladlen},
-  journal={arXiv preprint arXiv:2011.07233},
-  year={2020}
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2021}
 }
 ```
 
